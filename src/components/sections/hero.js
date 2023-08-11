@@ -69,7 +69,7 @@ const Hero = () => {
         digital experiences. Currently, I’m focused on building accessible, human-centered products
         at{' '}
         <a href="https://wipro.com/" target="_blank" rel="noreferrer">
-          Upstatement
+          Wipro Limited
         </a>
         .
       </p>
