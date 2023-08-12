@@ -1,14 +1,13 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2023-08-12'
+title: 'Library Management System'
+github: 'https://github.com/heyanilthakur/Library-Management'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - C++
+  - Linux
+  - CSV
+company: 'Wipro'
 showInProjects: true
 ---
-
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A C++ application for efficient library book and borrower management. Simplifies tasks like adding, deleting, and borrowing books. Developed using C++ and object-oriented principles
