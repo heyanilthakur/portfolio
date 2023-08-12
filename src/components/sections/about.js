@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Anil and I enjoy creating things that run the systems. My
-              interest in software development started back in 2018 and since then, I've been on an exciting path of continuous learning and growth.
+              interest in software development started back in 2022 and since then, I've been on an exciting path of continuous learning and growth.
             </p>
 
             <p>

@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I'm a software developer specializing in building exceptional applications that streamline processes and enhance user experiences. With a passion for problem-solving, my journey into software development began in 2018. I thrive on turning ideas into reality through coding and creative solutions. Curious and driven, I'm committed to continuous learning and collaborating on innovative projects. Let's code the future together! Currently, I’m focused on building accessible, human-centered products
+      I'm a software developer specializing in building exceptional applications that streamline processes and enhance user experiences. With a passion for problem-solving, my journey into software development began in 2022. I thrive on turning ideas into reality through coding and creative solutions. Curious and driven, I'm committed to continuous learning and collaborating on innovative projects. Let's code the future together! Currently, I’m focused on building accessible, human-centered products
         at{' '}
         <a href="https://wipro.com/" target="_blank" rel="noreferrer">
           Wipro Limited
